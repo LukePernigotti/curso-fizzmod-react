@@ -8,13 +8,16 @@ a.addEventListener("click", e => {
     if (!flag) {
         let aceptar = document.createElement("button");
         aceptar.innerText = "Aceptar";
-        aceptar.id = "aceptar";
         f.appendChild(aceptar);
+        aceptar.onclick = () => location = a.href;
 
         let cancelar = document.createElement("button");
         cancelar.innerText = "Cancelar";
-        cancelar.id = "cancelar";
         f.appendChild(cancelar);
+        cancelar.onclick = () => {
+            document.body.removeChild(div);
+            flag = false;
+        }
 
         let p = document.createElement("p");
         p.innerText = "Esta seguro que quiere abandonar la página";
@@ -26,13 +29,4 @@ a.addEventListener("click", e => {
     }
 
     flag = true;
-})
-
-document.body.addEventListener("click", e => {
-    if (e.target.id == "aceptar") {
-        location = a.href;
-    } else if (e.target.id == "cancelar") {
-        document.body.removeChild(cancelar.parentNode);
-        flag = false;
-    }
 })
