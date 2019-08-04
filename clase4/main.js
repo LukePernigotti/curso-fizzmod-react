@@ -6,11 +6,7 @@ const ajaxMain = e => {
 
     let xhr = new XMLHttpRequest;
     xhr.open("get", `${e.target.href}`);
-    xhr.addEventListener("load", () => {
-        if (xhr.status == 200) {
-            main.innerHTML = xhr.response;
-        }
-    })
+    xhr.addEventListener("load", () => xhr.status == 200 && (main.innerHTML = xhr.response));
     xhr.send();
 }
 
