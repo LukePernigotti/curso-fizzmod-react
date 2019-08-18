@@ -1,0 +1,14 @@
+.concurso-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.stepper-buttons {
+    text-align: center;
+}
+
+.MuiPaper-root {
+    background-color: transparent !important;
+}

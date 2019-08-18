@@ -1,0 +1,204 @@
+{
+  "movies": [
+    {
+      "title": "Coco",
+      "img": "coco",
+      "genre": "Animación",
+      "duration": "100min",
+      "actors": "Gael Garcia Bernal, Anthony Gonzalez",
+      "director": "Lee Unkrich",
+      "year": 2017,
+      "category": "Niños"
+    },
+    {
+      "title": "Gnomos al ataque",
+      "img": "gnomos",
+      "genre": "Animación",
+      "length": "85min",
+      "actors": "Alfonsina Aguirre, Carlos Díaz",
+      "director": "Peter Lepeniotis",
+      "year": 2017,
+      "category": "Niños"
+    },
+    {
+      "title": "Las travesuras de Peter Rabbit",
+      "img": "peter",
+      "genre": "Animación",
+      "length": "95min",
+      "actors": "Actores: James Corden,Domhnall Gleeson",
+      "director": "Will Gluck",
+      "year": 2018,
+      "category": "Niños"
+    },
+    {
+      "title": "Ploey: Nunca volarás solo",
+      "img": "ploey",
+      "genre": "Animación",
+      "length": "84min",
+      "actors": "Jamie Oram",
+      "director": "Arni Asgeirsson",
+      "year": 2018,
+      "category": "Niños"
+    },
+    {
+      "title": "El Atelier",
+      "img": "atelier",
+      "genre": "Drama",
+      "length": "114min",
+      "actors": "Mariana Fois, Matthieu Lucci",
+      "director": "Laurent Cantet",
+      "year": 2017,
+      "category": "ATP"
+    },
+    {
+      "title": "El reencuentro",
+      "img": "reencuentro",
+      "genre": "Drama",
+      "length": "125min",
+      "actors": "Steve Carrell, Bryan Cranston, Richard Linklater, Laurence Fishburne",
+      "director": "Richard Linklater",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "La libreria",
+      "img": "libreria",
+      "genre": "Drama",
+      "length": "115min",
+      "actors": "Bill Nighy, Emily Mortimer",
+      "director": "Isabel Coixet",
+      "year": 2017,
+      "category": "ATP"
+    },
+    {
+      "title": "La reina del miedo",
+      "img": "reina",
+      "genre": "Drama",
+      "length": "107min",
+      "actors": "Valeria Bertuccelli, Diego Velazquez",
+      "director": "Fabiana Tiscornia",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "Madame",
+      "img": "madame",
+      "genre": "Comedia",
+      "length": "91min",
+      "actors": "Toni Collette, Rossy De Palma, Harvey Keitel",
+      "director": "Amanda Sthers",
+      "year": 2017,
+      "category": "ATP"
+    },
+    {
+      "title": "Pantera Negra",
+      "img": "pantera",
+      "genre": "Ciencia Ficción",
+      "length": "134min",
+      "actors": "Michael B. Jordan,Chadwick Boseman",
+      "director": "Ryan Coogler",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "Rampage: Devastación",
+      "img": "rampage",
+      "genre": "Acción",
+      "length": "107min",
+      "actors": "Jeffrey Dean Morgan, Dwayne Johnson",
+      "director": "Brad Peyton",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "Ready Player One",
+      "img": "ready",
+      "genre": "Ciencia Ficción",
+      "length": "140min",
+      "actors": "Tye Sheridan, Letitia Wright",
+      "director": "Steven Spielberg",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "Titanes del Pacífico: Insurrección",
+      "img": "titanes",
+      "genre": "Ciencia Ficción",
+      "length": "111min",
+      "actors": "Scott Eastwood, Adria Arjona",
+      "director": "Steven S. DeKnight",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "Un Viaje en el tiempo",
+      "img": "viaje",
+      "genre": "Ciencia Ficción",
+      "length": "110min",
+      "actors": "Oprah Winfrey, Storm Reid",
+      "director": "Ava Duvernay",
+      "year": 2018,
+      "category": "ATP"
+    },
+    {
+      "title": "La maldicion de la casa Winchester",
+      "img": "maldicion",
+      "genre": "Terror",
+      "length": "99min",
+      "actors": "Helen Mirren, Jason Clarke",
+      "director": "Michael Spierig",
+      "year": 2018,
+      "category": "Adultos"
+    },
+    {
+      "title": "Mimic no sigas las voces",
+      "img": "mimic",
+      "genre": "Terror",
+      "length": "100min",
+      "actors": "Jin Heo, Jun Hyeok Lee",
+      "director": "Jung Huh",
+      "year": 2017,
+      "category": "Adultos"
+    },
+    {
+      "title": "Monsieur Madame Adelman",
+      "img": "monsieur",
+      "genre": "Comedia",
+      "length": "120min",
+      "actors": "Nicolas Bedos, Doria Tellier",
+      "director": "Nicolas Bedos",
+      "year": 2017,
+      "category": "Adultos"
+    },
+    {
+      "title": "Perdida",
+      "img": "perdida",
+      "genre": "Thriller",
+      "length": "105min",
+      "actors": "Luisana Lopilato, Amaia Salamanca",
+      "director": "Alejandro Montiel",
+      "year": 2018,
+      "category": "Adultos"
+    },
+    {
+      "title": "Un lugar en silencio",
+      "img": "lugar",
+      "genre": "Terror",
+      "length": "90min",
+      "actors": "Emily Blunt, John Krasinski",
+      "director": "John Krasinski",
+      "year": 2018,
+      "category": "Adultos"
+    },
+    {
+      "title": "Verdad o reto",
+      "img": "verdad",
+      "genre": "Terror",
+      "length": "100min",
+      "actors": "Lucy Hale, Tyler Posey",
+      "director": "Jeff Wadlow",
+      "year": 2018,
+      "category": "Adultos"
+    }
+  ]
+}
